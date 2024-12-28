@@ -1,0 +1,104 @@
+hi this is lb singh 
+i was learned few commands in git
+i wolud like to explain it
+
+
+ls: Lists the contents of the current directory
+cd: Changes the directory
+pwd: Prints the working directory
+cp: Copies a file
+mv: Moves a file
+rm: Removes a file
+mkdir: Creates a new directory
+rmdir: Removes a directory
+history: Lists the last 1000 commands
+echo: Sends text to the screen, a file, or another command
+cat: Displays the contents of a text file
+Here is a list of commonly used **Linux commands** without examples:
+
+### 1. **File and Directory Management:**
+- `ls`  
+- `cd`  
+- `cp`  
+- `mv`  
+- `rm`  
+- `mkdir`  
+- `rmdir`  
+- `touch`  
+
+### 2. **File Viewing and Editing:**
+- `cat`  
+- `more`  
+- `less`  
+- `nano`  
+- `vi`  
+- `vim`  
+
+### 3. **File Search and Find:**
+- `find`  
+- `grep`  
+- `locate`  
+- `which`  
+- `whereis`
+
+### 4. **System Information:**
+- `df`  
+- `du`  
+- `free`  
+- `top`  
+- `htop`  
+- `uname`  
+- `uptime`  
+- `who`  
+- `dmesg`  
+- `hostname`  
+
+### 5. **User and Permission Management:**
+- `chmod`  
+- `chown`  
+- `chgrp`  
+- `useradd`  
+- `usermod`  
+- `userdel`  
+- `passwd`  
+- `groups`  
+
+### 6. **Networking Tools:**
+- `ping`  
+- `ifconfig`  
+- `ip`  
+- `netstat`  
+- `ss`  
+- `curl`  
+- `wget`  
+- `traceroute`  
+- `nslookup`  
+- `host`  
+
+### 7. **Archiving and Compression:**
+- `tar`  
+- `gzip`  
+- `gunzip`  
+- `unzip`  
+- `zip`  
+
+### 8. **Process Management:**
+- `ps`  
+- `kill`  
+- `killall`  
+- `jobs`  
+- `bg`  
+- `fg`  
+- `nohup`  
+
+
+### 10. **Other Useful Commands:**
+- `echo`  
+- `history`  
+- `alias`  
+- `date`  
+- `cal`  
+- `sleep`  
+- `shutdown`  
+- `reboot`  
+- `clear`
